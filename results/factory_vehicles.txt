@@ -1,0 +1,15 @@
+=== Factory Pattern: Vehicle Manufacturing ===
+
+Vehicle 1: Car: Toyota Camry
+Starting engine: Car Toyota Camry: Engine started quietly
+Stopping engine: Car Toyota Camry: Engine stopped
+
+Vehicle 2: Motorcycle: Harley Davidson
+Starting engine: Motorcycle Harley Davidson: Engine ROARS to life!
+Stopping engine: Motorcycle Harley Davidson: Engine shut down
+
+Vehicle 3: Truck: Ford F-150
+Starting engine: Truck Ford F-150: Diesel engine rumbles powerfully
+Stopping engine: Truck Ford F-150: Heavy engine stopped
+
+Factory pattern demonstration completed successfully!

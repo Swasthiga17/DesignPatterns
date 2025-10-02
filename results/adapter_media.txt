@@ -1,0 +1,14 @@
+=== Adapter Pattern: Media Players ===
+
+Format: MP3 -> Attempting to play song.mp3 as mp3
+Playing MP3 file: song.mp3
+Format: MP4 -> Attempting to play movie.mp4 as mp4
+Playing MP4 file: movie.mp4
+Format: VLC -> Attempting to play presentation.vlc as vlc
+Playing VLC file: presentation.vlc
+Format: WAV -> Attempting to play sound.wav as wav
+Playing WAV file: sound.wav
+Format: AVI -> Attempting to play video.avi as avi
+Format avi not supported by any player
+
+Adapter pattern demonstration completed successfully!

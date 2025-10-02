@@ -1,0 +1,2 @@
+# Design Patterns Demo
+# No external dependencies required for this demo

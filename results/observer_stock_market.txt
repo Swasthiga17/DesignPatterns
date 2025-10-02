@@ -1,0 +1,13 @@
+=== Observer Pattern: Stock Market ===
+Initial stock prices set
+Simulating price changes...
+
+[StockTracker Pro] Stock AAPL price updated: $148.75
+[TradingBot] Monitoring AAPL at $148.75
+[StockTracker Pro] Stock AAPL price updated: $152.30
+[TradingBot] Selling AAPL at high price $152.30
+[StockTracker Pro] Stock GOOGL price updated: $2800.50
+[StockTracker Pro] Stock AAPL price updated: $95.80
+[TradingBot] Buying AAPL at low price $95.80
+
+Observer pattern demonstration completed successfully!

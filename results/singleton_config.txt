@@ -1,0 +1,18 @@
+=== Singleton Pattern: Configuration Manager ===
+
+Config 1 - Database URL: localhost:5432/mydb
+Config 2 - API Key: new_secret_key_456
+Config 2 - Debug Mode: True
+Config 2 - Timeout: 60
+
+Same instance? True
+
+All Configuration:
+Configuration:
+database_url: localhost:5432/mydb
+api_key: new_secret_key_456
+max_connections: 100
+debug_mode: True
+timeout: 60
+
+Singleton pattern demonstration completed successfully!

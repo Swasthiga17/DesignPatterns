@@ -1,0 +1,13 @@
+=== Decorator Pattern: Coffee Shop ===
+
+1. Simple coffee - $2.50
+2. Simple coffee, milk, sugar - $3.25
+3. Simple coffee, milk, chocolate, whipped cream, caramel - $5.55
+
+Building custom coffee step by step:
+Base: Simple coffee - $2.50
+After milk: Simple coffee, milk - $3.00
+After chocolate: Simple coffee, milk, chocolate - $3.80
+Final: Simple coffee, milk, chocolate, whipped cream - $4.55
+
+Decorator pattern demonstration completed successfully!

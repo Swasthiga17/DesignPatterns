@@ -1,0 +1,15 @@
+=== Strategy Pattern: Payment Processing ===
+
+1. Credit Card Payment:
+Processing credit card payment of $99.99
+Card: ****-****-****-5678
+
+2. PayPal Payment:
+Processing PayPal payment of $149.50
+Email: user@example.com
+
+3. Crypto Payment:
+Processing cryptocurrency payment of $299.99
+Wallet: 1A1zP1eP...vfNa
+
+Strategy pattern demonstration completed successfully!
