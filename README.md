@@ -18,4 +18,4 @@ This project demonstrates six different software design patterns across three ca
 - **Adapter Pattern**: Universal Media Player System
 - **Decorator Pattern**: Coffee Shop Ordering System
 
-## 📁 Project Structure
+
